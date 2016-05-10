@@ -1,0 +1,2 @@
+## H2O 3 python demo
+I've been an h2o user for quite a while, but only in the context of R. My datascience toolbox includes sklearn, and so I figured I'd challenge myself and try to solve a problem end-to-end in Python using the h2o package. The dataset I used is located at the [UCI machine learning repository](http://archive.ics.uci.edu/ml/datasets/Covertype), and the baseline accuracy to beat is between 58% and 71% (LDA and ANN, respectively). The results of my analysis are all contained within the ipython notebook
